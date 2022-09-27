@@ -1,0 +1,46 @@
+* {
+    font-family: monospace;
+}
+
+body{
+    margin: 10px;
+    background-color: #rgb(168, 219, 223);
+}
+
+.slot-number {
+    font-size: 100px;
+}
+
+.message {
+    text-align: center;
+    display: none;
+    font-size: xx-large;
+    color: red;
+}
+
+.center {
+    text-align: center;
+}
+
+.lever {
+    margin-top: 5px;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.display-4 {
+    text-align: center;
+}
+
+.center-lever {
+    text-align: center;
+}
+
+.lever {
+    background-color: red;
+    border-radius: 10px;
+    height: 80px;
+}
