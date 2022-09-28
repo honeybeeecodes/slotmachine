@@ -33,8 +33,7 @@ function spin(){
      showMessage();
  } else {
      hideMessage();
-}
-}
+}}
 
 
 
