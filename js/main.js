@@ -33,19 +33,20 @@ function spin(){
      showMessage();
  } else {
      hideMessage();
-}}
+}
+}
 
 
 
 // The two functions below will either show or hide the message depending on if the user wins or lose
 
 function showMessage(){
-    const msg = document.getElementById('message');
+    const msg = document.getElementById('win');
     msg.style.display = 'block';
 }
 
 function hideMessage() {
-    const msg = document.getElementById('message');
+    const msg = document.getElementById('win');
     msg.style.display = 'none';
 }
 
