@@ -11,7 +11,6 @@ This game is pretty fun and simple.
 
 ### Display of Game
 
-<img src="file:///Users/bianchivaldez/Desktop/clickedlever.png">
+![clickedlever](https://user-images.githubusercontent.com/113148410/192903136-6c0febf0-8386-4083-8f60-0661562724f6.png)
 
-<img src="file:///Users/bianchivaldez/Desktop/youwin.png">
-
+![youwin](https://user-images.githubusercontent.com/113148410/192903148-174893f5-e74d-4a28-94eb-50d09956d51a.png)
