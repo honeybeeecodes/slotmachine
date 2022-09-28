@@ -26,3 +26,9 @@ This game is pretty fun and simple.
 - HTML
 - CSS
 - JavaScript
+
+### Icebox Features:
+
+- Add more icons instead of numbers to match.
+- Animation for lever to mimic slot machine.
+- Coin animation for 'You Win!'.
