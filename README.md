@@ -18,3 +18,11 @@ This game is pretty fun and simple.
 - When you win and numbers match: 
 
 ![youwin](https://user-images.githubusercontent.com/113148410/192903148-174893f5-e74d-4a28-94eb-50d09956d51a.png)
+
+
+
+### Technology Used: 
+
+- HTML
+- CSS
+- JavaScript
