@@ -11,6 +11,8 @@ This game is pretty fun and simple.
 
 ### Display of Game
 
-<img src="Clicked Lever.png">
+![] <img src="http://to/Clicked Lever.png">
 
-<img src="You Win!.png">
+![] <img src="You Win!.png">
+
+<!-- ![alt text](http://url/to/img.png) -->
