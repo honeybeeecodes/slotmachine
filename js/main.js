@@ -1,7 +1,7 @@
-// This function generates a number between 1 & 2 
+// This function generates a number between 1 & 7
 
 function getRandomNumber(){
-    return Math.floor(Math.random() * 2) + 1;
+    return Math.floor(Math.random() * 4) + 1;
 }
 
 // This function will use DOM to return a HTML element by its ID
@@ -25,18 +25,30 @@ function spin(){
     item1.innerHTML = `${num1}`;
     item2.innerHTML = `${num2}`;
     item3.innerHTML = `${num3}`;
+
+
 }
+
+if (num1 === num2 && num1 === num3){
+    showMessage('You Win!');
+} else {
+    showMessage('You Lose!');
+}
+
+
 
 // The two functions below will either show or hide the message depending on if the user wins or lose
 
-function showMessage(){
-    const msg = document.getElementById('message');
-    msg.style.display = 'block';
-    msg.classList.add('animated', 'pulse');
-}
+// function showMessage(){
+//     const msg = document.getElementById('message');
+//     msg.style.display = 'block';
+//     msg.classList.add('animated', 'pulse');
+// }
 
-function hideMessage() {
-    const msg = document.getElementById('message');
-    msg.style.display = 'none';
-}
+// function hideMessage() {
+//     const msg = document.getElementById('message');
+//     msg.style.display = 'none';
+// }
+
+
 
