@@ -1,4 +1,4 @@
-
+document.getElementById('message').style.display = 'none'
 
 // This function generates a number between 1 & 4
 
@@ -47,7 +47,8 @@ function showMessage(){
 
 function hideMessage() {
     const msg = document.getElementById('message');
-    msg.style.display = 'none';
+    msg.style.display = 'block';
+    msg.innerText = 'You Lose!'
 }
 
 

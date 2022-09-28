@@ -8,6 +8,7 @@ This game is pretty fun and simple.
 
 - Game will be set at - - -.
 - Click on the 'Lever' button to see how many clicks it takes to win. 
+- If the three number do not match 'You Lose!' and if they do match 'You Win!'
 
 ### Display of Game
 
