@@ -1,3 +1,5 @@
+
+
 // This function generates a number between 1 & 7
 
 function getRandomNumber(){
