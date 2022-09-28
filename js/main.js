@@ -1,6 +1,6 @@
 
 
-// This function generates a number between 1 & 7
+// This function generates a number between 1 & 4
 
 function getRandomNumber(){
     return Math.floor(Math.random() * 4) + 1;
@@ -35,8 +35,6 @@ function spin(){
      hideMessage();
 }
 }
-
-
 
 
 
