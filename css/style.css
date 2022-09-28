@@ -49,3 +49,9 @@ table.center {
     border-radius: 10px;
     height: 80px;
 }
+
+#message{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}

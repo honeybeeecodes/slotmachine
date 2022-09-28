@@ -27,28 +27,28 @@ function spin(){
     item3.innerHTML = `${num3}`;
 
 
+ if (num1 === num2 && num1 === num3) {
+     showMessage();
+ } else {
+     hideMessage();
+}
 }
 
-if (num1 === num2 && num1 === num3){
-    showMessage('You Win!');
-} else {
-    showMessage('You Lose!');
-}
+
 
 
 
 // The two functions below will either show or hide the message depending on if the user wins or lose
 
-// function showMessage(){
-//     const msg = document.getElementById('message');
-//     msg.style.display = 'block';
-//     msg.classList.add('animated', 'pulse');
-// }
+function showMessage(){
+    const msg = document.getElementById('message');
+    msg.style.display = 'block';
+}
 
-// function hideMessage() {
-//     const msg = document.getElementById('message');
-//     msg.style.display = 'none';
-// }
+function hideMessage() {
+    const msg = document.getElementById('message');
+    msg.style.display = 'none';
+}
 
 
 
