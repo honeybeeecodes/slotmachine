@@ -11,9 +11,7 @@ This game is pretty fun and simple.
 
 ### Display of Game
 
-<img class="fit-picture"
-     src="bianchis-air/clickedlever.png">
+<img src="file:///Users/bianchivaldez/Desktop/clickedlever.png">
 
+<img src="file:///Users/bianchivaldez/Desktop/youwin.png">
 
-<img class="fit-picture"
-     src="bianchis-air/youwin">
